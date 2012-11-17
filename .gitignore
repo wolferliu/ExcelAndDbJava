@@ -4,6 +4,7 @@
 *~.nib
 
 target/
+dist/
 
 build/
 adhoc/
